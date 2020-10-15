@@ -6,3 +6,6 @@ trtl.speed(0)
 for i in range(720):
   trtl.forward(0.5)
   trtl.left(0.5)
+
+def wahoo():
+  print("wahoo")
